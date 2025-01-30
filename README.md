@@ -1,6 +1,6 @@
-# CodeMath Explorer 🚀
+# SmartKids 🚀
 ### Overview
-CodeMath Explorer is an AI-powered educational platform revolutionizing how kids learn math and coding. By combining adaptive learning, artificial intelligence, and gamification, we make STEM education engaging and effective for students aged 10-17.
+SmartKids is an AI-powered educational platform revolutionizing how kids learn math and coding. By combining adaptive learning, artificial intelligence, and gamification, we make STEM education engaging and effective for students aged 10-17.
 
 ## Project info
 
