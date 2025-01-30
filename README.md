@@ -1,69 +1,76 @@
-# Welcome to your Lovable project
+# CodeMath Explorer 🚀
+### Overview
+CodeMath Explorer is an AI-powered educational platform revolutionizing how kids learn math and coding. By combining adaptive learning, artificial intelligence, and gamification, we make STEM education engaging and effective for students aged 10-17.
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/498a88f9-d2a9-4ee1-bf64-b0f15229c020
+**URL**: https://hackathon-tawny-nine.vercel.app
 
-## How can I edit this code?
+## 🎯 Mission
+To transform traditional math and coding education into an engaging, personalized learning journey that inspires the next generation of tech innovators.
 
-There are several ways of editing your application.
+## ✨ Key Features
 
-**Use Lovable**
+Adaptive Learning Engine: Personalized learning paths tailored to each student's pace
+AI Problem-Solving Coach: Intelligent guidance and hint system
+Interactive Coding Environment: Real-time coding challenges and feedback
+Progress Tracking: Comprehensive skill assessment and progress visualization
+Gamification: Achievement system with rewards and competitive elements
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/498a88f9-d2a9-4ee1-bf64-b0f15229c020) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+Frontend: Next.js, Tailwind CSS
+Backend: Supabase
+AI Integration: OpenAI
+Deployment: Vercel
 
-**Use your preferred IDE**
+## 📚 Features Breakdown
+### Personalized Learning
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+AI-driven learning paths
+Dynamic difficulty adjustment
+Real-time skill assessment
+Smart recommendations
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Interactive Environment
 
-Follow these steps:
+Gamified interface
+Achievement system
+Progress tracking
+Real-time problem solving
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### AI Integration
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Intelligent problem generation
+Smart hint system
+Skill gap analysis
+Personalized feedback
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🔒 Security
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Secure authentication via Supabase
+Data encryption
+Age-appropriate content filtering
+Parental controls
 
-**Edit a file directly in GitHub**
+## 📈 Business Model
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Free tier with basic features
+Premium subscription options
+School/district partnerships
+Enterprise solutions
 
-**Use GitHub Codespaces**
+## 🙏 Acknowledgments
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+igebra.ai for inspiration and guidance
 
-## What technologies are used for this project?
+### 📞 Contact
+Website: https://hackathon-tawny-nine.vercel.app
 
-This project is built with .
+## 🚀 Future Roadmap
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/498a88f9-d2a9-4ee1-bf64-b0f15229c020) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Mobile application
+Advanced AI features
+International language support
+Extended curriculum coverage
+Community features
